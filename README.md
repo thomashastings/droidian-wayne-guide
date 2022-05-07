@@ -12,7 +12,7 @@ A collection of tips to install and use Droidian on the Xiaomi Mi 6X (wayne)
 ### 0. Download files
 - Latest nightly or stable release of `droidian-rootfs` and `droidian-devtools` for `arm64` from [the Droidian repo](https://github.com/droidian-images/rootfs-api28gsi-all/releases)
 - Latest [adaptation zip](https://github.com/Droidian-Mi-A2-6X/adaptation-xiaomi-wayne/releases)
-- [Vendor image](https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.6.0.PDCCNXM_f049df201b_9.0.zip)
+- [Vendor image](https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.6.0.PDCCNXM_f049df201b_9.0.zip) (NOTE: has arb4 firmware)
 - Latest [TWRP](https://dl.twrp.me/wayne/)
 
 ### 1. Install TWRP 
