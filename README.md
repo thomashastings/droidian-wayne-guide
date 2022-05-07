@@ -18,7 +18,7 @@ A collection of tips to install and use Droidian on the Xiaomi Mi 6X (wayne)
 ### 1. Install TWRP 
 - Boot to fastboot mode by pressing the Vol- and Power buttons until the phone vibrates
 - Check that the phone is recognized by running `fastboot devices`
-- Install TWRP by running `fastboot flash recovery twrp-*-beryllium.img`
+- Install TWRP by running `fastboot flash recovery twrp-*-wayne.img`
 
 ### 2. Install Droidian in TWRP
 TWRP:
@@ -43,7 +43,7 @@ TWRP:
 
 ## Notes
 ### Porting status
-You can check out the status of the port [here](https://github.com/orgs/Droidian-Mi-A2-6X/projects/1)
+You can check out the status of the port [here](https://github.com/orgs/Droidian-Mi-A2-6X/projects/1).
 
 ### Applications
 You can find a list of mobile-friendly Linux applications at [LinuxPhoneApps](https://linuxphoneapps.org/).
