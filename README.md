@@ -1,5 +1,6 @@
 # Xiaomi Mi 6X
-This is page lists what you need to install Droidian on the Xiaomi Mi 6X (wayne) following this [guide](https://github.com/thomashastings/droidian-generic-guide/blob/main/README.md)
+This is page lists what you need to install Droidian on the Xiaomi Mi 6X (wayne) following this [guide](https://github.com/thomashastings/droidian-generic-guide/blob/main/README.md).
+
 You can find the maintainers at [Shouko's Lab](https://t.me/shoukolab).
 
 ## Requirements
